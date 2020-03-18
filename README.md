@@ -6,10 +6,10 @@ Two choosen tests:
   * Verify if password is encrypted after typing it.
   
 Reqirements:
-  *Python3
-  *chromedriver added to system path - https://chromedriver.chromium.org/downloads
-  *selenium installed in python - pip install selenium
-  *pytest installed in python - pip install pytest
+  * Python3
+  * chromedriver added to system path - https://chromedriver.chromium.org/downloads
+  * selenium installed in python - pip install selenium
+  * pytest installed in python - pip install pytest
   
 Tests can be executed by running this command in terminal : 
   * "pytest (path/to/test)"
