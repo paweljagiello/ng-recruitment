@@ -13,4 +13,4 @@ Reqirements:
   
 Tests can be executed by running this command in terminal : 
   * "pytest (path/to/test)"
-  * When you have few python installed - "python3 -m pytest (path/to/test.py)"
+  * When you have few python versions installed - "python3 -m pytest (path/to/test.py)"
